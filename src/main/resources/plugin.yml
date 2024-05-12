@@ -1,0 +1,4 @@
+name: teleport
+version: '${project.version}'
+main: org.lastdice.teleport.Teleport
+api-version: '1.20'
